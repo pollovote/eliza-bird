@@ -16,7 +16,11 @@
             "shouldOnlyJoinInAllowedGroups": true,
             "allowedGroupIds": [
                 "-1002273524838",
-                "-1002206791635"
+                "-1002206791635",
+                "-1002379824604",
+                "-1002221053897",
+                "-1002270113679",
+                "-1002242872944"
             ],
             "shouldIgnoreDirectMessages": true,
             "shouldRespondOnlyToMentions": false,
